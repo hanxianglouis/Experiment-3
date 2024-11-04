@@ -1,0 +1,1 @@
+A.fill(array<string,50>{"0"});
